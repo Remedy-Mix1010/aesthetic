@@ -1,0 +1,24 @@
+body
+{
+	text-align: center;
+    background-color: #7c6146;
+    color: black;
+    font-size: xx-large;
+}
+span
+{
+	font-size: 18px;
+	color: black;
+}
+canvas
+{
+	background-color: #523f2c;
+	border-radius: 20px;
+}
+.noice{
+    background-color: #524437;
+    color: black;
+    border-radius: 5px;
+    border-color: #523f2c;
+    font-size: small;
+}
